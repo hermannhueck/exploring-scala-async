@@ -1,0 +1,21 @@
+# directories
+target/
+
+# hidden directories
+.idea/
+.vscode/
+.metals/
+.ammonite/
+.bloop/
+project/.bloop/
+
+# files
+*.class
+*.log
+*.jar
+*.zip
+project/metals.sbt
+
+# hidden files
+.history
+.DS_Store
